@@ -177,4 +177,9 @@ faq:
       opensource:
         question: "Is Verge Currency een private ondernemingen en op welke wijze wordt Verge Currency gefinancierd?"
         answer: "Nee, Verge Currency is 100% open source en geen private onderneming gefinancierd door een ICO of premining. Ontwikkeling en marketing wordt ondersteund door duizenden leden van de Verge community."
-    
+      getverge:
+        question: "Hoe verkrijg ik Verge Currency?"
+        answer: "Er zijn verschillende manieren om Verge (XVG) coins te verkrijgen. De meest gebruikelijke optie is het aankopen via de ondersteunde <a href='https://vergecurrency.com/#exchanges' target='_blank'>exchanges</a>. Gebruikers kunnen elkaar ook een fooi uitkeren op geïntegreerde <a href='https://vergecurrency.com/#social' target='_blank'>sociale</a> platformen (door middel van officiële Verge bots). Indien u een Android-toestel bezit, is het mogelijk uw Verge coins altijd bij de hand te hebben om betalingen uit te voeren en ontvangen aan de hand van uw mobiele Verge wallet <a href='https://play.google.com/store/apps/details?id=com.vergeandroid.wallet' target='_blank'>applicatie</a>."
+      techdoc:
+        question: "Waar vind ik de technische documentatie over Verge Currency?"
+        answer: "In de <a href='https://github.com/vergecurrency/Verge-Blackpaper/blob/master/Verge-Anonymity-Centric-CryptoCurrency.pdf' target='_blank'>\"Black paper\"</a>. De broncode kan gevonden worden op <a href='https://github.com/vergecurrency' target='_blank'>\"Github\"</a>."
